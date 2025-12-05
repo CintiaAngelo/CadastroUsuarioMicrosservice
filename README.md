@@ -42,4 +42,3 @@ O sistema permite:
   "tipoEnderecoId": 1
 }
 ```
-# CadastroUsuarioMicrosservice
